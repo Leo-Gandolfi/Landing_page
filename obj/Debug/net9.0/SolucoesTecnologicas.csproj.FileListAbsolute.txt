@@ -94,4 +94,5 @@ D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\refint\SolucoesTecnologicas.dl
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.pdb
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.genruntimeconfig.cache
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\ref\SolucoesTecnologicas.dll
-D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\compressed\2ziq9qddkq-9r479u21so.gz
+D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.sourcelink.json
+D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\compressed\2ziq9qddkq-hy2jwv40ct.gz

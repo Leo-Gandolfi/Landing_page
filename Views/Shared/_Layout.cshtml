@@ -21,34 +21,34 @@
 
 </head>
 <body>
-    <header class="p-3 bg-gradient text-white">
-<div class="container-fluid d-flex justify-content-between align-items-center">
-    <a href="/" class="logo fs-4 text-white text-decoration-none">Soluções</a>
+<header class="p-3 bg-gradient text-white">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+        <a href="/" class="logo fs-4 text-white text-decoration-none">Soluções</a>
 
+        <nav class="navbar navbar-expand-lg">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link text-white" href="#services">Serviços</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#testimonials">Testemunhos</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#contact">Contato</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>
 
-
-    <nav style="margin-left: 30%;" class="collapse navbar-collapse " id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link text-white" href="#services">Serviços</a></li>
-            <li class="nav-item"><a class="nav-link text-white" href="#testimonials">Testemunhos</a></li>
-            <li class="nav-item"><a class="nav-link text-white" href="#contact">Contato</a></li>
-        </ul>
-    </nav>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-        <span class="navbar-toggler-icon" style="font-size: 20px; margin-left: 10%;">☰</span>
-    </button>
-</div>
-
-
-    </header>
-    <main>
-        @RenderBody()
-    </main>
-    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
-    <script>
+<main>
+    @RenderBody()
+</main>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
+<script>
         AOS.init({
-            duration: 1000, // Duração em milissegundos
-            once: true, // Anima apenas na primeira vez
+            duration: 1000, 
+            once: true, 
         });
     </script>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
