@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projetos\\SolucoesTecnologicas\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SolucoesTecnologicas.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SolucoesTecnologicas.58q42qz0l8.bundle.scp.css"
+      "Id": "D:\\Projetos\\SolucoesTecnologicas\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\solucoestecnologicas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\solucoestecnologicas.qg9a3lx7xn.bundle.scp.css"
     },
     {
       "Id": "D:\\Projetos\\SolucoesTecnologicas\\wwwroot\\css\\site.css",
@@ -281,24 +281,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SolucoesTecnologicas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.solucoestecnologicas.props",
+      "PackagePath": "build\\solucoestecnologicas.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.solucoestecnologicas.props",
+      "PackagePath": "buildMultiTargeting\\solucoestecnologicas.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.solucoestecnologicas.props",
+      "PackagePath": "buildTransitive\\solucoestecnologicas.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.solucoestecnologicas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SolucoesTecnologicas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.solucoestecnologicas.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
-    },
-    {
-      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.SolucoesTecnologicas.props",
-      "PackagePath": "build\\SolucoesTecnologicas.props"
-    },
-    {
-      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SolucoesTecnologicas.props",
-      "PackagePath": "buildMultiTargeting\\SolucoesTecnologicas.props"
-    },
-    {
-      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.SolucoesTecnologicas.props",
-      "PackagePath": "buildTransitive\\SolucoesTecnologicas.props"
     }
   ],
   "ElementsToRemove": []

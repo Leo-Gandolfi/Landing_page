@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\SolucoesTecnologicas\\SolucoesTecnologicas.csproj": {}
+    "D:\\Projetos\\SolucoesTecnologicas\\solucoestecnologicas.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\SolucoesTecnologicas\\SolucoesTecnologicas.csproj": {
+    "D:\\Projetos\\SolucoesTecnologicas\\solucoestecnologicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\SolucoesTecnologicas\\SolucoesTecnologicas.csproj",
-        "projectName": "SolucoesTecnologicas",
-        "projectPath": "D:\\Projetos\\SolucoesTecnologicas\\SolucoesTecnologicas.csproj",
+        "projectUniqueName": "D:\\Projetos\\SolucoesTecnologicas\\solucoestecnologicas.csproj",
+        "projectName": "solucoestecnologicas",
+        "projectPath": "D:\\Projetos\\SolucoesTecnologicas\\solucoestecnologicas.csproj",
         "packagesPath": "C:\\Users\\Leoga\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\SolucoesTecnologicas\\obj\\",
         "projectStyle": "PackageReference",

@@ -3,304 +3,6 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "SolucoesTecnologicas.58q42qz0l8.styles.css",
-      "AssetFile": "SolucoesTecnologicas.styles.css.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001828153565"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "58q42qz0l8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE="
-        },
-        {
-          "Name": "label",
-          "Value": "SolucoesTecnologicas.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "SolucoesTecnologicas.58q42qz0l8.styles.css",
-      "AssetFile": "SolucoesTecnologicas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "58q42qz0l8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE="
-        },
-        {
-          "Name": "label",
-          "Value": "SolucoesTecnologicas.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "SolucoesTecnologicas.58q42qz0l8.styles.css.gz",
-      "AssetFile": "SolucoesTecnologicas.styles.css.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "58q42qz0l8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c="
-        },
-        {
-          "Name": "label",
-          "Value": "SolucoesTecnologicas.styles.css.gz"
-        }
-      ]
-    },
-    {
-      "Route": "SolucoesTecnologicas.styles.css",
-      "AssetFile": "SolucoesTecnologicas.styles.css.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001828153565"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE="
-        }
-      ]
-    },
-    {
-      "Route": "SolucoesTecnologicas.styles.css",
-      "AssetFile": "SolucoesTecnologicas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O4igHfDvxryINyv9FsSNfgYVyL1Scpc4rmKSOP1X6PE="
-        }
-      ]
-    },
-    {
-      "Route": "SolucoesTecnologicas.styles.css.gz",
-      "AssetFile": "SolucoesTecnologicas.styles.css.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "546"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:03:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YI9y7HX/8ZUm9b+k1vXfYXIzJ0hTgZKRDAO2jLVCq4c="
-        }
-      ]
-    },
-    {
       "Route": "css/site.7qcj2n9noi.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
@@ -19347,6 +19049,304 @@
         {
           "Name": "label",
           "Value": "lib/jquery/dist/jquery.slim.min.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.qg9a3lx7xn.styles.css",
+      "AssetFile": "solucoestecnologicas.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001831501832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qg9a3lx7xn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg="
+        },
+        {
+          "Name": "label",
+          "Value": "solucoestecnologicas.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.qg9a3lx7xn.styles.css",
+      "AssetFile": "solucoestecnologicas.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qg9a3lx7xn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg="
+        },
+        {
+          "Name": "label",
+          "Value": "solucoestecnologicas.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.qg9a3lx7xn.styles.css.gz",
+      "AssetFile": "solucoestecnologicas.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qg9a3lx7xn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs="
+        },
+        {
+          "Name": "label",
+          "Value": "solucoestecnologicas.styles.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.styles.css",
+      "AssetFile": "solucoestecnologicas.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001831501832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg="
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.styles.css",
+      "AssetFile": "solucoestecnologicas.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-anVl5syk1T4Lns+yOauDiN2W2DELaSNGDcIsPMCZBSg="
+        }
+      ]
+    },
+    {
+      "Route": "solucoestecnologicas.styles.css.gz",
+      "AssetFile": "solucoestecnologicas.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:14:00 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gl/nfH8cO3/A/h6Ij53a+ri4dWLKJytNBcYseUCnrRs="
         }
       ]
     }

@@ -95,4 +95,10 @@ D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.pdb
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.genruntimeconfig.cache
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\ref\SolucoesTecnologicas.dll
 D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\SolucoesTecnologicas.sourcelink.json
-D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\compressed\2ziq9qddkq-hy2jwv40ct.gz
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\web.config
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\appsettings.Development.json
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\appsettings.json
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\SolucoesTecnologicas.deps.json
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\SolucoesTecnologicas.runtimeconfig.json
+D:\Projetos\SolucoesTecnologicas\bin\Debug\net9.0\publish\SolucoesTecnologicas.staticwebassets.endpoints.json
+D:\Projetos\SolucoesTecnologicas\obj\Debug\net9.0\compressed\2ziq9qddkq-7qcj2n9noi.gz

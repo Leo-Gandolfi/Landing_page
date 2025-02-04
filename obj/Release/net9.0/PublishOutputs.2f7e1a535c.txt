@@ -1,6 +1,12 @@
 D:\Projetos\SolucoesTecnologicas\publish\SolucoesTecnologicas.exe
+D:\Projetos\SolucoesTecnologicas\publish\publish\web.config
 D:\Projetos\SolucoesTecnologicas\publish\appsettings.Development.json
 D:\Projetos\SolucoesTecnologicas\publish\appsettings.json
+D:\Projetos\SolucoesTecnologicas\publish\publish\appsettings.Development.json
+D:\Projetos\SolucoesTecnologicas\publish\publish\appsettings.json
+D:\Projetos\SolucoesTecnologicas\publish\publish\SolucoesTecnologicas.deps.json
+D:\Projetos\SolucoesTecnologicas\publish\publish\SolucoesTecnologicas.runtimeconfig.json
+D:\Projetos\SolucoesTecnologicas\publish\publish\SolucoesTecnologicas.staticwebassets.endpoints.json
 D:\Projetos\SolucoesTecnologicas\publish\SolucoesTecnologicas.dll
 D:\Projetos\SolucoesTecnologicas\publish\SolucoesTecnologicas.deps.json
 D:\Projetos\SolucoesTecnologicas\publish\SolucoesTecnologicas.runtimeconfig.json
